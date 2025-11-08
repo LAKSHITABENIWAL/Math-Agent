@@ -18,9 +18,8 @@ A sophisticated mathematical problem-solving application that intelligently rout
 
 https://github.com/yourusername/math-routing-agent/assets/demo/demo.mp4
 
-or watch on YouTube: [Math Routing Agent Demo](paste-your-youtube-link-here)
+or watch on YouTube: [Math Routing Agent Demo](https://drive.google.com/file/d/1das7siNOrRp9qbz7dUqvXTwpzAbMwNFx/view?usp=sharing)
 
-![Demo GIF](./demo/demo.gif)
 
 ## Project Structure
 
